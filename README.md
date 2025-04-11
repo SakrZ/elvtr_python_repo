@@ -1,2 +1,2 @@
 # elvtr_python_repo
-elvtr data
+repo to be used for capstone project
