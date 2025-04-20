@@ -1,2 +1,2 @@
-# elvtr_python_repo
-repo to be used for capstone project
+Project built with poetry 
+Project data all contained in main_capstone
